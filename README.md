@@ -3,8 +3,5 @@
 <!--Установка-->
 ## Установка и запуск
 - Скачайте репозиторий
-- Перейдите в директорию passwordManager - ```cd file encryptor```
-- Создайте виртуальное окружение - ```python -m venv venv```
-- Активируйте виртуальное окружение - ```venv/bin/activate```
-- Установите библиотеки - ```pip install -r requirements.txt```
+- Перейдите в директорию file encryptor - ```cd file encryptor```
 - Запустите скрипт - ```python main.py```
